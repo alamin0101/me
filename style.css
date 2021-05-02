@@ -87,7 +87,7 @@ body {
 }
 
 .profile-img {
-    height: 400px;
+    height: 500px;
 }
 
 .nav-bar {
@@ -238,6 +238,13 @@ body {
     background-attachment: fixed;
     color: #fff;
 }
+.col-md-4 a p {
+	color: #fff;
+}
+.col-md-4 a {
+	text-decoration:none;
+}
+
 
 .Contact .row {
     padding: 30px 0;
@@ -307,6 +314,7 @@ body {
     margin-top: 5px;
     color: #fff;
     background: #82964d;
+	
 }
 
 .social-icons ul li:hover {
